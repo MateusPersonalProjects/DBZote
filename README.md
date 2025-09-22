@@ -2,7 +2,7 @@
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**DBZote** is an experimental relational SQL database built **from scratch in C**, inspired by the architecture of ![SQLite](https://www.sqlite.org/).  
+**DBZote** is an experimental relational SQL database built **from scratch in C**, inspired by the architecture of [SQLite](https://www.sqlite.org/).  
 The project aims to provide a minimal, single–file implementation that can be easily compiled and explored.
 
 ## 📜 Overview
