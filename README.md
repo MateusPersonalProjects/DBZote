@@ -19,3 +19,8 @@ The next major milestone is the **implementation of B-Trees** for indexing and e
 ## 🛠️ Goals
 - Build a deeper understanding of database internals such as storage engines, indexing, and query execution.  
 - Gradually evolve from a simple append-only store into a small, functional relational database engine.
+
+## 🤝 Contributing
+
+- This is primarily a learning project, but suggestions, feedback, and discussions are welcome.
+- Feel free to open an issue or submit a pull request.
